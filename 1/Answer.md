@@ -30,3 +30,7 @@ https://docs.google.com/spreadsheets/d/1l-v92rsB0adrTU0hdTJH5Cw3stpu1nUbwCLbfnd5
 2 шанса: либо выжить, либо умереть. Количество выживших женщин: 91  
 
 **тогда: 91/2 = 45.50 % шансов выжить**
+
+Ссылку на ваш гугл-шит со сводной таблицей:
+
+**https://docs.google.com/spreadsheets/d/1l-v92rsB0adrTU0hdTJH5Cw3stpu1nUbwCLbfnd52Dc/edit?usp=sharing**
